@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "경희대학교 산업경영공학과 24학번"
-- 📫 How to reach me: "@jeongsangyooon"
+- 🔭 "I’m currently working on : 경희대학교 산업경영공학과 24학번"
+- 📫 "How to reach me: @jeongsangyooon"
 -->
+- 🔭 "I’m currently working on : 경희대학교 산업경영공학과 24학번/KHUDA 7기"
+- 📫 "How to reach me: @jeongsangyooon"
